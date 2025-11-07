@@ -2,8 +2,6 @@ This repository contains the slides from my Habilitation à Diriger des Recherch
 
 The HDR, or Habilitation to Direct, Manage, and Supervise Research, is the highest academic qualification in the French university system, recognizing a researcher’s ability to conduct independent research and supervise PhD students. It is an essential and equivalent requirement for attaining the status of Director of Research or Full Professor.
 
-You can add this paragraph to your extended description on GitHub, written in plain text (no LaTeX formatting or bold), like this:
-
 The HDR dissertation was reviewed and evaluated by a distinguished committee of experts. The official reviewers (rapporteurs) were Patrick Bas (Directeur de Recherche, HDR, CNRS), Marco Lorenzi (Chargé de Recherche, HDR, Centre Inria d’Université Côte d’Azur), and Roland Gautier (Professeur des Universités, HDR, Université de Bretagne Occidentale – Lab-STICC).
 
 The jury was presided over by Nana Laurent (Professeur des Universités, HDR, Université de Bretagne Occidentale) and included Patrick Bas, Marco Lorenzi, Roland Gautier, Fernando Pérez-González (Full Professor, University of Vigo), Anca Christine Pascu (Maître de Conférences Emeritus, HDR, Université de Bretagne Occidentale), and Françoise Sailhan (Professeure des Universités, HDR, IMT Atlantique).
