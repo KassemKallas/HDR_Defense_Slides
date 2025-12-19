@@ -7,7 +7,7 @@ Institution: Université de Bretagne Occidentale (UBO)
 Date of defense: 3 June 2025  
 
 👉 Landing page:  
-https://kassemkallas.github.io/HDR_Defense_Slides/HDR-defense.html  
+https://github.com/KassemKallas/HDR_Defense_Slides/blob/main/HDR-defense.html 
 
 👉 Direct PDF: 
 https://raw.githubusercontent.com/KassemKallas/HDR_Defense_Slides/main/HDR-presentation.pdf
